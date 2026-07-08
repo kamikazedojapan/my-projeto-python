@@ -14,7 +14,8 @@ Programa desenvolvido para participar da lógica de programação e versionament
 - Git
 - GitHub
 
-git add README.md
-git commit -m "adiciona documentação do projeto"
-
-
+### Contribuintes
+Ana Gabriela de Santos de Jesus
+Laila Silva dos Santos
+Márcio Vinicius Esteves Reis
+Monique Pereira dos Santos
