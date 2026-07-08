@@ -15,7 +15,7 @@ Programa desenvolvido para participar da lógica de programação e versionament
 - GitHub
 
 ### Contribuintes
-Ana Gabriela de Santos de Jesus
-Laila Silva dos Santos
-Márcio Vinicius Esteves Reis
-Monique Pereira dos Santos
+- Ana Gabriela de Santos de Jesus  
+- Laila Silva dos Santos  
+- Márcio Vinicius Esteves Reis  
+- Monique Pereira dos Santos  
